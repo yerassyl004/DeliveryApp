@@ -27,7 +27,7 @@ class HomeViewController: UIViewController {
         collectionView.delegate = self
         collectionView.dataSource = self
         collectionView.collectionViewLayout = UICollectionViewFlowLayout()
-        
+        print("Git Hub")
     }
 }
 
